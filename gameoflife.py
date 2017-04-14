@@ -1,3 +1,9 @@
+"""
+Made by Jonas Herseth
+Python implementation of Game of Life
+v0.0.0.1
+"""
+
 
 class GameOfLife(object):
     """
